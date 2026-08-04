@@ -143,7 +143,7 @@ Founded Nexolve in **2021** to fix a specific gap in software services: most age
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-day-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season.svg">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution grid"/>
 </picture>
 </div>
