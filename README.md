@@ -24,6 +24,21 @@
 
 <br/>
 
+## ⚡ Founder's Manifesto
+
+```text
+$ whoami
+> Maitreya Kulkarni — Founder, Nexolve AI Solutions LLP
+
+  🎯 MISSION      Ship the right product — not the most billable hours
+  🔥 FOCUS        MVP Development · Custom SaaS · AI Agents & Automation
+  🌍 REACH        40+ shipped engagements — India, US, UK, Europe, Asia
+  🧠 APPROACH     Scope every project personally, stay accountable to delivery
+  ⚡ SUPERPOWER   Depth, not headcount.
+```
+
+<br/>
+
 ## About
 
 Founder of **[Nexolve AI Solutions LLP](https://nexolve.co.in)** — a Pune-based software studio building for startups and growing businesses across India, the US, the UK, Europe, and Asia.
